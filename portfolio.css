@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: black;
+    color: aliceblue;
+    height: 100px;
+    padding: 20px;
+}
+ul li{
+    display: inline;
+    color: rgb(223, 147, 47);
+    padding: 20px;
+}
+ul li a{
+    color:rgb(223, 147, 47);
+    text-decoration: none;
+}
+#home img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+#portfolio{
+    background-color: rgb(126, 158, 138);
+    margin: 0px 100px 0px 100px;
+}
+#skills ul li
+{
+    color: rgb(53, 131, 17);
+    padding: 10PX;
+}
+footer{
+    background-color: rgb(247, 169, 169);
+    padding: 30px;
+    margin: 0px 100px 0px 100px;
+}
+
+ 
